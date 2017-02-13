@@ -18,9 +18,9 @@ cnodejs.org Weixin App version
 | - [x] 图片自适应规则       |               |                |
 | - [x] 图片多图片预览      |                |               |
 | - [x] 模版层级可扩展性    |                |               |
-| - [x] 多数据循环方式      |                |  |
-| - [x] 内联style         |                |   |
-|         |                |   |
+| - [x] 多数据循环方式      |                |              |
+| - [x] 内联style         |                |              |
+
 
 
 ## 基本使用方法
@@ -70,4 +70,5 @@ WxParse.wxParse('article', 'html', article, that, 5);
 //这里data中article为bindName
 <template is="wxParse" data="{{wxParseData:article.nodes}}"/>
 ```
-明天，我整理好源代码后，就上传github,供大家参考。 同时，我也提交了我开发的小程序，希望微信团队尽快审核通过，让大家试用。
+源代码已经上传github,[网址:(https://github.com/tonyzhan/cnodeWeixinApp](https://github.com/tonyzhan/cnodeWeixinApp), 供大家参考。 ：
+同时，我也提交了我开发的小程序，希望微信团队尽快审核通过，让大家试用。
