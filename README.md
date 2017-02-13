@@ -4,10 +4,9 @@ cnodejs.org Weixin App version
 在这里向大家推荐wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析。 
 先给大家看看我制作的使用cnode社区API开发微信小程序的页面截图： 
 ##列表页：
-
-![Screenshot_20170212-234343.png](//dn-cnode.qbox.me/Fj2t4h2bJgYNx9QnNj_tIIk7rztW)
+![ScreenshotList.jpg](https://github.com/tonyzhan/cnodeWeixinApp/screenshot/ScreenshotList.jpg)
 详情页：
-![Screenshot_20170212-234356.png](//dn-cnode.qbox.me/FqJYTtZ4_o9vvUpIl5EyEgBK0A-c)
+![ScreenshotDetail.jpg](https://github.com/tonyzhan/cnodeWeixinApp/screenshot/ScreenshotDetail.jpg)
 
 ## wxParse的特点
 
