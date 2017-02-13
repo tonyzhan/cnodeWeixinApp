@@ -1,0 +1,15 @@
+{
+  "pages":[ 
+    "pages/topics/topics",
+    "pages/detail/detail",
+    "pages/parseHtml/parseHtml"
+  ],  
+  "window":{
+    "backgroundTextStyle":"black",
+    "backgroundColor":"#fff",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "cnode",
+    "navigationBarTextStyle":"white",
+    "enablePullDownRefresh":"true"
+  }
+}
